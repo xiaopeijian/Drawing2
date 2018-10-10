@@ -1,0 +1,14 @@
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\bin\Debug\Drawing.exe.config
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\bin\Debug\Drawing.exe
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\bin\Debug\Drawing.pdb
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\MainWindow.g.cs
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing_MarkupCompile.cache
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing_MarkupCompile.lref
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\MainWindow.baml
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing.g.resources
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing.exe
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing.pdb
+F:\百度云同步盘\我的学习\7、WPF\《深入浅出WPF》系列\Practice\12章 绘图和动画\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
